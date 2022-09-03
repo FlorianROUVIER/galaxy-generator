@@ -4,7 +4,7 @@ Galaxy generator made with [Three.js-journey](https://threejs-journey.com/) usin
 
 ## Website 
 
-Soon 
+https://galaxy-generator-sigma.vercel.app/ 
 
  
 ## How to launch 
